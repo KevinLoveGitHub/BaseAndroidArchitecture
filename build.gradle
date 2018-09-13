@@ -22,7 +22,8 @@ ext {
     glideVersion = '4.4.0'
     rxjavaVersion = "2.2.0"
     GsonVersion = "2.8.5"
-    slidinguppanelVersion = "3.4.0"
+
+    leakcanaryVersion = "1.6.1"
     // Architecture Components dependencies
     archLifecycleVersion = "1.1.1"
 
